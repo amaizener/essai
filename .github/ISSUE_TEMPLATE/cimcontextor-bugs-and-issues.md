@@ -2,7 +2,7 @@
 name: CimContextor Bugs and Issues
 about: Descibe a bug or issue for CimContextor
 title: ID
-labels: bug, enhancement
+labels: bug, Change, enhancement, New, Update
 assignees: ''
 
 ---
