@@ -2,7 +2,7 @@
 name: amelioration
 about: decrire le projet
 title: ''
-labels: enhancement
+labels: bug, enhancement
 assignees: ''
 
 ---
