@@ -16,8 +16,8 @@ A clear and concise description of what the problem is. Ex.
 **Proposal**
 A clear and concise description of what you want to happen.
 
-**Initial comment**
+**Initial Comment**
 Add any initial comment here.
 
-** Budget**
+**Budget**
 Estimated budget in man/days
