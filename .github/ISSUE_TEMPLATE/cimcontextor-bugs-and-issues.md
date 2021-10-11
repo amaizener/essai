@@ -19,5 +19,5 @@ A clear and concise description of what you want to happen.
 **Initial comment**
 Add any initial comment here.
 
-** Budget***
+** Budget**
 Estimated budget in man/days
